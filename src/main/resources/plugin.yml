@@ -1,0 +1,12 @@
+name: NametagHider
+version: ${project.version}
+main: uk.co.hopperelec.mc.nametaghider.Main
+api-version: 1.16
+prefix: Nametags
+authors: [ HopperElecYT ]
+description: Gives a command to toggle nametag visibility
+website: hopperelec.co.uk
+
+commands:
+  togglenametag:
+    description: Toggles nametag visibility
