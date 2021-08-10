@@ -1,6 +1,6 @@
 name: NametagHider
 version: ${project.version}
-main: uk.co.hopperelec.mc.nametaghider.Main
+main: uk.co.hopperelec.mc.nametaghider.NametagHider
 api-version: 1.16
 prefix: Nametags
 authors: [ HopperElecYT ]

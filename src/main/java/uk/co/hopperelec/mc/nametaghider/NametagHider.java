@@ -11,7 +11,7 @@ import org.bukkit.scoreboard.Scoreboard;
 import org.bukkit.scoreboard.ScoreboardManager;
 import org.bukkit.scoreboard.Team;
 
-public final class Main extends JavaPlugin implements Listener {
+public final class NametagHider extends JavaPlugin implements Listener {
     Team showNametag;
     Team hideNametag;
 
